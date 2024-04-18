@@ -29,6 +29,7 @@ let addressesnotlsapi = [
 
 let DLS = 8;//速度下限
 let addressescsv = [
+	'https://text.cfworkersub.onflashdrive.app/result.csv?token=sub',
 	//'https://text.cfworkersub.onflashdrive.app/result.csv?token=sub', //iptest测速结果文件。
 ];
 
